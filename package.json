@@ -1,0 +1,22 @@
+{
+  "name": "secureprogram",
+  "version": "1.0.0",
+  "description": "ip check security bypass",
+  "main": "app.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/waleedwaseem/ipCheck.git"
+  },
+  "keywords": [
+    "ipcheck"
+  ],
+  "author": "leedz",
+  "bugs": {
+    "url": "https://github.com/waleedwaseem/ipCheck/issues"
+  },
+  "homepage": "https://github.com/waleedwaseem/ipCheck#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
